@@ -6,7 +6,7 @@ layout: home
 
 My name is **Lulu Zhao**, and I am currently studying Artificial Intelligence with a focus on robotics and deep learning. If you are interested in my research projects, feel free to reach out to me.
 
-### My Research Projects and Collaborations
+## My Research Projects and Collaborations
 
 #### **Manipulation of Deformable Linear Objects (DLOs) and Elasto-plastic Objects**
 *09/2024 -- Present*  
