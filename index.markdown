@@ -25,8 +25,3 @@ My name is **Lulu Zhao**, and I am currently studying Artificial Intelligence wi
 - Customized a teleoperation system with Gello (XArm) and Manus (Hand), integrating ROS2 for real-time control.
 - Formulated diffusion-based policies with action chunking conditioned on visual and joint state inputs.
 - Developed an imitation learning-based manipulation system for the Foam Hand with robustness and generalization.
-
-### Contact Me
-
-- [GitHub](https://github.com/username)
-- [Twitter](https://twitter.com/your-twitter-handle)
