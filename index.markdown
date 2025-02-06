@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# 🌟 **Lulu Zhao** 🌟
+## 🌟 **Lulu Zhao** 🌟
 ![](https://lulubots.github.io/files/LuluBots.JPG)
 Robotics Enthusiast | AI Researcher | Sci-Fi Dreamer
 
