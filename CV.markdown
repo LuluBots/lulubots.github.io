@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: Resume
+permalink: /Resume/
 ---
 [](https://lulubots.github.io/files/Resume_LuluZhao.pdf)
