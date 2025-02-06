@@ -7,7 +7,7 @@ title:
 ![](https://lulubots.github.io/files/LuluBots.JPG)
 Robotics Enthusiast | AI Researcher | Sci-Fi Dreamer
 
-I’m a passionate robotics researcher from China, currently a senior in Artificial Intelligence at **[Beijing Normal University](https://english.bnu.edu.cn/)**. My ambition is to become a **full-stack robotics researcher** and write imaginative **sci-fi stories**. I've had the privilege of collaborating on exciting projects with **[Prof. Nancy Pollard](http://graphics.cs.cmu.edu/nsp/index.html)** at **Carnegie Mellon University** and have spent an exchange semester at **The Chinese University of Hong Kong** at the **[Bioinspired Robotics and Medical Technology (BMT) group](https://biomedirobotics.com/)**.
+I’m a self-motivated robotics researcher from China, currently a senior in Artificial Intelligence at **[Beijing Normal University](https://english.bnu.edu.cn/)**. My ambition is to become a **full-stack robotics researcher** and write imaginative **sci-fi nolves**. I've had the privilege of collaborating on exciting projects with **[Prof. Nancy Pollard](http://graphics.cs.cmu.edu/nsp/index.html)** at **Carnegie Mellon University** and have spent an exchange semester at **The Chinese University of Hong Kong** at the **[Bioinspired Robotics and Medical Technology (BMT) group](https://biomedirobotics.com/)**.
 
 
 ## 🔍 **Interests**  
