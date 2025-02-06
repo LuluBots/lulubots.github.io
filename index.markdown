@@ -4,7 +4,7 @@ layout: home
 
 ## 🌟 Lulu Zhao 🌟
 
-![](https://lulubots.github.io/files/LuluBots.jpg){:width="200px"}
+![](https://lulubots.github.io/files/LuluBots.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:200px;"}
 
 Robotics Enthusiast | AI Researcher | Sci-Fi Dreamer
 
