@@ -4,8 +4,6 @@ title: Research
 permalink: /Research/
 ---
 
-
-
 ## 📚 **Projects and Collaborations**
 
 1. **[T1 and T2 Mapping Reconstruction Based on Conditional DDPM](https://link.springer.com/chapter/10.1007/978-3-031-52448-6_29)**  
