@@ -6,7 +6,7 @@ layout: home
 ![](https://lulubots.github.io/files/LuluBots.JPG)
 Robotics Enthusiast | AI Researcher | Sci-Fi Dreamer
 
-I’m a passionate robotics researcher from China, currently a senior in Artificial Intelligence at **Beijing Normal University**. My ambition is to become a **full-stack robotics researcher** and write engaging, imaginative **sci-fi stories**. I've had the privilege of collaborating on exciting projects with **[Prof. Nancy Pollard](http://graphics.cs.cmu.edu/nsp/index.html)** at **Carnegie Mellon University** and have spent a semester at **The Chinese University of Hong Kong** at the **[Bioinspired Robotics and Medical Technology (BMT) group](https://biomedirobotics.com/)**.
+I’m a passionate robotics researcher from China, currently a senior in Artificial Intelligence at **[Beijing Normal University](https://english.bnu.edu.cn/)**. My ambition is to become a **full-stack robotics researcher** and write engaging, imaginative **sci-fi stories**. I've had the privilege of collaborating on exciting projects with **[Prof. Nancy Pollard](http://graphics.cs.cmu.edu/nsp/index.html)** at **Carnegie Mellon University** and have spent a semester at **The Chinese University of Hong Kong** at the **[Bioinspired Robotics and Medical Technology (BMT) group](https://biomedirobotics.com/)**.
 
 
 ## 🔍 **Interests**  
@@ -16,7 +16,7 @@ I’m a passionate robotics researcher from China, currently a senior in Artific
 - 💻 **Software Development**
 
 
-### 🎯 **Let’s Connect!**
+## 🎯 **Let’s Connect!**
 
 I'm currently seeking a **Ph.D. opportunity in Robotics/CS** for Fall 2025. If you’re interested in chatting about robots, AI, or sci-fi, feel free to reach out via [email](hgsdrzgsds@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/lulubotszhao) or [GitHub](https://github.com/LuluBots).
 
