@@ -1,6 +1,5 @@
 ---
 layout: home
-title: 
 ---
 
 ## 🌟 **Lulu Zhao** 🌟
