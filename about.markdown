@@ -4,7 +4,7 @@ title: Research
 permalink: /Research/
 ---
 
----
+
 
 ## 📚 **Projects and Collaborations**
 
@@ -20,16 +20,15 @@ permalink: /Research/
    *RSS 2025*  
    [Read Paper](https://lulubots.github.io/files/DLO_no.pdf) | [Code](https://github.com/YunxiTang/DLO-Transformer) | [Watch Video](https://drive.google.com/drive/folders/1K3LbCSwuhtlBZqWbwl0Btg7ehxWLDSGJ?usp=drive_link)
 
-4. **[T1Diff: Cardiac T1 Mapping Synthesis from Cine MRI based on Diffusion Model](https://lulubots.github.io/files/T1Diff.pdf)**  
-   *AAAI 2024*  
-   [Read Paper](https://lulubots.github.io/files/T1Diff.pdf)
-
-5. **[Manipulating Elasto-plastic Objects with 3D Occupancy and Learning-based Predictive Control](https://lulubots.github.io/files/Dough_no.pdf)**  
+4. **[Manipulating Elasto-plastic Objects with 3D Occupancy and Learning-based Predictive Control](https://lulubots.github.io/files/Dough_no.pdf)**  
    *RA-L 2025*  
    [Read Paper](https://lulubots.github.io/files/Dough_no.pdf) | [Watch Video](https://drive.google.com/drive/folders/1LqlDTESkV0XhOsPiShaphkdWGxOWj6EH?usp=drive_link)
+
+5. **[T1Diff: Cardiac T1 Mapping Synthesis from Cine MRI based on Diffusion Model](https://lulubots.github.io/files/T1Diff.pdf)**  
+   *AAAI 2024*  
+   [Read Paper](https://lulubots.github.io/files/T1Diff.pdf)
 
 6. **[Dexterous Manipulation of Foam Hand via Diffusion Policy](https://drive.google.com/file/d/1hYUVsxyhiXEtXabWOoytsa8HlRqqGbKX/view?usp=drive_link)**  
    *Carnegie Mellon University*  
    [Read Paper](https://drive.google.com/file/d/1hYUVsxyhiXEtXabWOoytsa8HlRqqGbKX/view?usp=drive_link) | [Code](https://github.com/CMU-Foam-Hands-Lab/diff_foam) | [Watch Video](https://drive.google.com/drive/folders/1KEXPBYPwv0lbEvvZ6YWYVUTffquYh2OQ?usp=drive_link)
 
----
