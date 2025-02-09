@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /Research/
+# title: Research
+# permalink: /Research/
 ---
 
 ## 📚 **Projects and Collaborations**
