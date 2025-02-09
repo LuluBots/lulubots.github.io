@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: page
-# title: Research
-# permalink: /Research/
+title: Research
+permalink: /Research/
 ---
 
 ## 📚 **Projects and Collaborations**
@@ -29,4 +29,4 @@ layout: page
 6. **Dexterous Manipulation of Foam Hand via Diffusion Policy**  
    *CMU Summer Research Session Poster*  
    [Read Paper](https://drive.google.com/file/d/1hYUVsxyhiXEtXabWOoytsa8HlRqqGbKX/view?usp=drive_link) | [Code](https://github.com/CMU-Foam-Hands-Lab/diff_foam) | [Watch Video](https://drive.google.com/drive/folders/1KEXPBYPwv0lbEvvZ6YWYVUTffquYh2OQ?usp=drive_link)
-
+ -->
